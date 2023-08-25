@@ -1,5 +1,5 @@
 <a href="https://github.com/BrunoDiego67/BrunoDiego67#readme">PT-BR</a>       
-<a href="https://github.com/BrunoDiego67/BrunoDiego67En.git">EN-US</a>
+<a href="https://github.com/BrunoDiego67/BrunoDiego67En/blob/main/README.md">EN-US</a>
 
 ## Hello! My name's Bruno Trebeschi 🖐️
 
