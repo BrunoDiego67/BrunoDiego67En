@@ -7,7 +7,7 @@
 
 <h2>About me</h2>
 
-<p align="justify">I have a solid background includes a technical course in Systems Development and a scholarship at Cubo Academy in Back End. With a diverse career, you have already worked in the IT area at Hospital de Aguaí, working in the development and maintenance of computers, in addition to having acted as UX/ UI Designer at Ioasys, improving the customer experience and ensuring the application of the Design System. With this variety of skills and experiences, I am well prepared to grow in your career in information technology and systems development, I am looking for new challenges and willing to learn to program.
+<p align="justify">I have a solid background includes a technical course in Systems Development and a scholarship at Cubo Academy in Back End. With a diverse career, you have already worked in the IT area at Hospital de Aguaí, working in the development and maintenance of computers, in addition to having acted as UX/ UI Designer at Ioasys, improving the customer experience and ensuring the application of the Design System. With this variety of skills and experiences, I am well prepared to grow in your career in information technology and systems development, I am looking for new challenges and willing to learn new programming languages.
 
 <h2 align="left">Contact</h2>
 
