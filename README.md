@@ -7,7 +7,7 @@
 
 <h2>About me</h2>
 
-<p align="justify">I’m passionate about Star Wars, I play sports and I’m a chocoholic. I have a strong background in information technology, including technical courses and experience in IT and as UX/UI Designer at Ioasys. My diverse trajectory prepares me to grow in my career and excel in future projects in the technology area. I am looking for opportunities in the area.
+<p align="justify">I’m passionate about Star Wars, I play sports and I’m a chocoholic. I have a strong background in information technology, including technical courses and experience in IT and as UX/UI Designer at Ioasys. My diverse trajectory prepares me to grow in my career and excel in future projects in the technology area. I am looking for opportunities in the area and i am willing to learn new programming languages.
 
 <h2 align="left">Contact</h2>
 
